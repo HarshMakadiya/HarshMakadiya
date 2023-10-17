@@ -17,7 +17,7 @@
   </div>
 </td><td>
  
-[![My Skills](https://skillicons.dev/icons?i=react,node.js,nest,next,express,js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nest,next,express,js,html,css,wasm)](https://skillicons.dev)
         
 ### <p align="center">Top Language I Use </p>
    

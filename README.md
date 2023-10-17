@@ -17,7 +17,7 @@
   </div>
 </td><td>
  
-<!--  [![GitHub Streak](https://streak-stats.demolab.com?user=devvsakib&theme=yellowdark)](https://git.io/streak-stats) -->
+[![My Skills](https://skillicons.dev/icons?i=react,node,nest,next,express,js,html,css,wasm)](https://skillicons.dev)
         
 ### <p align="center">Top Language I Use </p>
    

@@ -6,6 +6,9 @@
 ⚡ Fun fact: I can code in C++, Javascript
 
 🌱 I’m currently learning Next.js, Nest.js
+
+### Languages I prefer
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nest,next,express,js,html,tailwind)](https://skillicons.dev)
 ### Activities on GitHUb
 <table border="0px"><tr><td>
   <div>
@@ -17,7 +20,6 @@
   </div>
 </td><td>
  
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nest,next,express,js,html,tailwind)](https://skillicons.dev)
         
 ### <p align="center">Top Language I Use </p>
    

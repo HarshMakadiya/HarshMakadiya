@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning Next.js, Nest.js
 ### Activities on GitHUb
-<table border="0px" align="center"><tr><td>
+<table border="0px"><tr><td>
   <div>
     <p style="margin-bottom:0">
      

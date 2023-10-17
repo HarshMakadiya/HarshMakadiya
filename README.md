@@ -38,7 +38,7 @@
 </table>
  <br>
 
-[![An image of @devvsakib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devvsakib)](https://holopin.io/@devvsakib)
+[![An image of @HarshMakadiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/HarshMakadiya)](https://holopin.io/@HarshMakadiya)
  
  <br>
 <!--

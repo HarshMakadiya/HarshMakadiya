@@ -38,11 +38,19 @@
   </tr>
  [Test](https://github.com/devvsakib/github-readme-stats) -->
 </table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshMakadiya/HarshMakadiya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshMakadiya/HarshMakadiya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshMakadiya/HarshMakadiya/output/github-contribution-grid-snake.svg">
+</picture>
+
  <br>
 
 [![An image of @HarshMakadiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/HarshMakadiya)](https://holopin.io/@HarshMakadiya)
  
  <br>
+
 <!--
 **HarshMakadiya/HarshMakadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

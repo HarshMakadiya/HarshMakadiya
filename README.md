@@ -1,11 +1,13 @@
 ### Hi there, I am Harsh 👋
-👯 I’m looking to collaborate on open-source projects.
+An enthusiastic web application developer equipped with knowledge of the latest industrial technologies. I’m looking to collaborate on open-source projects.
 
 😄 Pronouns: he/him
 
 ⚡ Fun fact: I can code in C++, Javascript
 
 🌱 I’m currently learning Next.js, Nest.js
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshMakadiya&label=Profile%20views&color=0e75b6&style=flat" alt="bran-deb" /></p>
 
 ### Languages I prefer
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nest,next,express,js,html,tailwind)](https://skillicons.dev)

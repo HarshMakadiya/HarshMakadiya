@@ -57,6 +57,6 @@ An enthusiastic web application developer equipped with knowledge of the latest 
 <p>
  <a href="mailto:harshharsh312@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/harsh-makadiya-5815361b3/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://twitter.com/@deb_jairo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+ <a href="https://x.com/harsh_makadiya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
  <a href="https://dev.to/harshmakadiya" target="_blank"><img alt="DEV.TO" src="https://img.shields.io/badge/-community-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
